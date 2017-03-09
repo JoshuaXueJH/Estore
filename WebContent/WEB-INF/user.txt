@@ -1,0 +1,12 @@
+/Estore/addOrder.jsp
+/Estore/cart.jsp
+/Estore/confirm.jsp
+/Estore/orderList.jsp
+/Estore/pay.jsp
+/Estore/AddCartServlet
+/Estore/ChangeCartNumServlet
+/Estore/ClearCartServlet
+/Estore/DelOrderServlet
+/Estore/DelCartItenServlet
+/Estore/ListOrderServlet
+/Estore/PayServlet
